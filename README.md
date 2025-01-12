@@ -32,6 +32,20 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 5. Top 10 Total Vehicles by Model:
 <br>Visualization: Tree map<br>
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
+## Process
+1.Verify data for any missing values and anomalies, and sort out the same.<br>
+2.Made sure data is consistent and clean with respect to data type, data format and values used.<br>
+3.Created pivot tables according to the questions asked.<br>
+4.Merge all pivot tables into one dashboard and apply slicer to make dynamic.<br>
+## Dashboard
+![image](https://github.com/user-attachments/assets/f2ebc15a-5698-48c6-8771-e56af675ffd7)
+## Project Insight
+1.BEVs dominate with 78% share, indicating a strong shift toward fully electric vehicles<br>
+2.EV registrations have grown steadily from 2011 to 2024, showcasing market expansion.
+3.BEVs are preferred over PHEVs, pushing the need for better battery tech and reduced costs.
+## Conclusion
+This dashboard effectively highlights the trends and patterns in electric vehicle adoption, offering a valuable tool for stakeholders in policymaking, market strategy, and business development. The data underscores the importance of accelerating the transition to BEVs and fostering innovation in the EV sector.
+
 
 
 
