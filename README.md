@@ -1,2 +1,2 @@
-# Data-analysis-project
-Electric Vehicle Data Analysis | Data visulaization | Tableau
+# Electric Vehicle Data Analysis dashboard | Data visulaization | Tableau
+
